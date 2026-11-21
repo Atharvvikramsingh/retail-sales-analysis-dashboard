@@ -1,6 +1,6 @@
 # 📊 Retail Sales Analysis Dashboard
 
-![Retail Sales Dashboard](Retail_Dashboard.png)
+### 👉 [Click here to view the Dashboard (PDF)](Retail_Dashboard.pdf)
 
 ## Overview
 This project analyzes retail sales data to uncover insights on revenue, profit, and performance trends across product categories, customer segments, regions, and time periods. Data cleaning and exploratory analysis were done in **Microsoft Excel**, and an interactive dashboard was built in **Power BI**.
@@ -40,4 +40,4 @@ Global Superstore Sales dataset with over 51,000 records covering orders, produc
 ## Files in this Repository
 - `superstore_working.xlsx`: Cleaned dataset with pivot tables and Excel analysis
 - `Retail_Sales_Analysis_Dashboard.pbix`: Power BI dashboard file
-- `Retail_Dashboard.png`: Dashboard screenshot
+- `Retail_Dashboard.pdf`: Dashboard preview (PDF)
